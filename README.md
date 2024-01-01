@@ -1,1 +1,1 @@
-ASPX revershe-shell payload.
+'''ASPX reverse-shell payload.'''
